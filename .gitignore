@@ -1,0 +1,8 @@
+# Raw Citi Bike data (files exceed GitHub's 100 MB limit)
+Data/*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
